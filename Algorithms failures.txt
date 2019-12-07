@@ -1,6 +1,0 @@
-General algorithm failures:
-	- SVD with tuned parameters: 0.00008
-	- KNNWithZScore not tuned: 0.00006
-	- KNNBasic not tuned: 0.00006
-	- SVD++ not tuned: 0.00007
-	- KNNBaseline: 0.00001
